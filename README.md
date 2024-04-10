@@ -52,10 +52,3 @@ Experience costs are done more fairly at high levels. (On by default).<br>
         </th>
     </tr>
 </table>
-
-<b>Interested in hosting a server for any of my mods?</b>  
-Be sure to go with Bloom Host at:  
-<a href="http://bloom.amymialee.xyz">
-<img src="https://i.imgur.com/h4556XW.gif">
-</a>  
-<b>Buying a server using this link supports me directly!</b>
